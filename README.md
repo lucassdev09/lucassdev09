@@ -1,6 +1,6 @@
 # Olá👋, eu sou o Lucas
 
-🚀 **Desenvolvedor em formação | Python, automação e desenvolvimento web**
+🚀 **Desenvolvedor em formação | Python e desenvolvimento web**
 🇧🇷 Brazil
 
 Atualmente estou aprimorando meus conhecimentos através de projetos práticos, buscando transformar o que estudo em aplicações reais e construir minha primeira experiência profissional na área de tecnologia. Aberto a oportunidades, colaborações e novos projetos🤝.
@@ -10,11 +10,9 @@ Atualmente estou aprimorando meus conhecimentos através de projetos práticos, 
 ## 🧠 Sobre mim
 
 - 🐍 Desenvolvimento com **Python**
-- ⚙️ Interesse em **automação e RPA**
 - 🌐 Desenvolvimento web com **TypeScript, React e Next.js**
 - 🗄️ Experiência prática com **MySQL**
 - 🖥️ Desenvolvimento de aplicações desktop com **PyQt**
-- 🤖 Explorando **Playwright e n8n**
 - 📚 Em constante aprendizado e buscando minha primeira oportunidade profissional em tecnologia
 
 ---
@@ -30,15 +28,11 @@ Atualmente estou aprimorando meus conhecimentos através de projetos práticos, 
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
-### Backend & Automação
+### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Ferramentas
 
