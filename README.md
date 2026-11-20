@@ -1,6 +1,6 @@
 # Olá👋, eu sou o Lucas
 
-🚀 **Desenvolvedor em formação | Python e desenvolvimento web**
+🚀 **Desenvolvedor em formação | Python e desenvolvimento web & RPA**
 🇧🇷 Brazil
 
 Atualmente estou aprimorando meus conhecimentos através de projetos práticos, buscando transformar o que estudo em aplicações reais e construir minha primeira experiência profissional na área de tecnologia. Aberto a oportunidades, colaborações e novos projetos🤝.
@@ -10,7 +10,7 @@ Atualmente estou aprimorando meus conhecimentos através de projetos práticos, 
 ## 🧠 Sobre mim
 
 - 🐍 Desenvolvimento com **Python**
-- 🌐 Desenvolvimento web com **TypeScript, React e Next.js**
+- 🌐 Desenvolvimento web com **Javascript, React e Next.js**
 - 🗄️ Experiência prática com **MySQL**
 - 🖥️ Desenvolvimento de aplicações desktop com **PyQt**
 - 📚 Em constante aprendizado e buscando minha primeira oportunidade profissional em tecnologia
@@ -22,7 +22,6 @@ Atualmente estou aprimorando meus conhecimentos através de projetos práticos, 
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
@@ -36,7 +35,6 @@ Atualmente estou aprimorando meus conhecimentos através de projetos práticos, 
 
 ### Ferramentas
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
