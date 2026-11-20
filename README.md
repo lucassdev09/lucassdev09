@@ -1,6 +1,6 @@
 # Olá👋, eu sou o Lucas
 
-🚀 **Desenvolvedor em formação | Python e desenvolvimento web & RPA**
+🚀 **Desenvolvedor em formação | Python, Desenvolvimento Web & RPA**
 🇧🇷 Brazil
 
 Atualmente estou aprimorando meus conhecimentos através de projetos práticos, buscando transformar o que estudo em aplicações reais e construir minha primeira experiência profissional na área de tecnologia. Aberto a oportunidades, colaborações e novos projetos🤝.
