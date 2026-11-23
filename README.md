@@ -10,7 +10,7 @@ Atualmente estou aprimorando meus conhecimentos através de projetos práticos, 
 ## 🧠 Sobre mim
 
 - 🐍 Desenvolvimento com **Python**
-- 🌐 Desenvolvimento web com **Javascript, React e Next.js**
+- 🌐 Desenvolvimento web com HTML5, CSS e**Javascript,
 - 🗄️ Experiência prática com **MySQL**
 - 🖥️ Desenvolvimento de aplicações desktop com **PyQt**
 - 📚 Em constante aprendizado e buscando minha primeira oportunidade profissional em tecnologia
